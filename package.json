@@ -1,0 +1,21 @@
+{
+    "name": "amp-boilerplate",
+    "displayName": "AMP Boilerplate",
+    "description": "An AMP Boilerplate using the sample from https://www.ampproject.org/docs/fundamentals/spec#sample-document",
+    "version": "0.0.1",
+    "publisher": "edwardkenfox",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
